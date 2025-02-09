@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Bootcamp Project
+# 🚀 Machine Learning Model Engineering
 
 ![Project Banner](https://via.placeholder.com/1000x300.png?text=Machine+Learning+Bootcamp+Project)
 
